@@ -15,7 +15,11 @@ public class GitHubTrabajo {
      */
     public static void main(String[] args) {
         
+        for(int i=0; i<=5;i++){
         
+            System.out.println("¡Hola! Esta es una modificación de prueba en mi rama local.");
+        
+        }
         
         
         
