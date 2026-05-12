@@ -23,7 +23,7 @@ public class Ej_A11_Resultado_nota {
             } else if (nota>=7 && nota<=8) {
                 System.out.println("Notable");
             } else if (nota>=9 && nota<=10) {
-                System.out.println("Sobresaliente");
+                System.out.println("calor homosexual");
             } else {
                 System.out.println("Tu nota no es válida");
             }
