@@ -11,7 +11,7 @@ public class Ej_A11_Resultado_nota {
         Scanner yuju=new Scanner(System.in);
         
         do {
-            System.out.println("Cuanto te mide la tula bro?: ");
+            System.out.println("dime tu nota bro");
             nota=yuju.nextInt();
 
             if (nota>=0 && nota<=4) {
