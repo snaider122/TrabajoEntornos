@@ -13,7 +13,7 @@ public class Ej_C51_Piramide_asteriscos {
                     System.out.print(" ");
                 }
                 for (k=0;k<=(2*i);k++) {
-                    System.out.print("*");
+                    System.out.print("@");
                 }
                 System.out.println("");
             }
