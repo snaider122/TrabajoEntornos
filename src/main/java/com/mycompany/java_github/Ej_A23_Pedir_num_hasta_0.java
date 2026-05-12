@@ -14,7 +14,7 @@ public class Ej_A23_Pedir_num_hasta_0 {
         int contador=0;
         
         do {
-            System.out.println("Por favor introduzca un número");
+            System.out.println("Por favor introduzca un número se lo ruego señor amen");
             f=k.nextInt();
             contador++;
         } while (f!=0);
