@@ -11,9 +11,9 @@ public class Ej_A11_Resultado_nota {
         Scanner yuju=new Scanner(System.in);
         
         do {
-            System.out.println("A ver que has sacao");
+            System.out.println("Cuanto te mide la tula bro?: ");
             nota=yuju.nextInt();
-            
+
             if (nota>=0 && nota<=4) {
                 System.out.println("Insuficiente");
             } else if (nota==5) {
@@ -23,10 +23,11 @@ public class Ej_A11_Resultado_nota {
             } else if (nota>=7 && nota<=8) {
                 System.out.println("Notable");
             } else if (nota>=9 && nota<=10) {
-                System.out.println("calor homosexual");
+                System.out.println("sobre saliente");
             } else {
                 System.out.println("Tu nota no es válida");
             }
         } while (nota<0 || nota>10);
         }
+    
 }
