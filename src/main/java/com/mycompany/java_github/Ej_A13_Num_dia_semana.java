@@ -18,7 +18,7 @@ public class Ej_A13_Num_dia_semana {
         } else if (dia>=6 && dia<=7) {
             System.out.println("¡Por fin es finde!");
         } else {
-            System.out.println("No es un día válido");
+            System.out.println("che pero que haces, pone un dia valido y dejate de boludeces che");
         }
     }
     
